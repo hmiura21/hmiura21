@@ -20,10 +20,32 @@ I'm a bioinformatics masters student at Georgia Institute of Technology 🐝 int
 
 ---
 
+
+## 🌱 Tools/ Skills I am Currently Learning
+
+- Command-line bioinformatics tools such as BLAST, Prodigal, Barrnap
+- Data Visualization in R
+- Statistical Analysis using R
+- Machine Learning Pipelines using PyTorch (ESM2, ProtT5)
+- Single-cell RNA analysis using R tools (Seurat)
+- Querying and Creating SQL tables
+- Developing interactive web applications using Shiny
+- Custom CLI pipeline
+- Workflow managemnt system such as Nextflow
+- Quality control, dimentionality reduction using R and Python
+- Clustering analysis and differential gene expression using R
+- Managing large datasets (.rds, .csv, .h5ad, .fa, .bed)
+
+---
+
+
 ## 🧭 Other Past Projects 
 
-- [**Global Temperatures Visualization**](https://github.com/hmiura21/GlobalTemperaturesVisualization)  
-  Python analysis of global average temperature anomalies from January 1850 to the present using monthly data obtained from the NOAA
+- [**Protein Mutation Prediction**](https://github.com/hmiura21/ProteinMutationPrediction)  
+  Machine Learning model to predict the functional effects of single-point protein mutations using ESM2 and parameter-efficient fine-tuning via LoRA
+
+- [**QC Workflow**](https://github.com/hmiura21/QC_Workflow)  
+  Nextflow pipeline that performs sequential read quality control and genome assembly while also analyzing the quality-filtered reads in parallel.
 
 - [**Extract Homolog Gene**](https://github.com/hmiura21/Extract_Homolog_Gene)  
    Enhanced version of the find_homologs.py script that identifies putative homologous genes from BLAST results, maps them to gene annotations in a BED file, extracts their sequences from a reference assembly, and writes the results to a     FASTA file
@@ -49,30 +71,12 @@ I'm a bioinformatics masters student at Georgia Institute of Technology 🐝 int
 - [**QC Assembly**](https://github.com/hmiura21/QC_Assembly)  
   Bash script to perform read trimming and genome assembly using Fastp and Skesa for 34 files of unknown bacterial samples.
 
-- [**QC Workflow**](https://github.com/hmiura21/QC_Workflow)  
-  Nextflow pipeline that performs sequential read quality control and genome assembly while also analyzing the quality-filtered reads in parallel.
+- [**Global Temperatures Visualization**](https://github.com/hmiura21/GlobalTemperaturesVisualization)  
+  Python analysis of global average temperature anomalies from January 1850 to the present using monthly data obtained from the NOAA
 
-- [**Protein Mutation Prediction**](https://github.com/hmiura21/ProteinMutationPrediction)  
-  Machine Learning model to predict the functional effects of single-point protein mutations using ESM2 and parameter-efficient fine-tuning via LoRA
 
 ---
 
-## 🌱 Tools/ Skills I am Currently Learning
-
-- Command-line bioinformatics tools such as BLAST, Prodigal, Barrnap
-- Data Visualization in R
-- Statistical Analysis using R
-- Machine Learning Pipelines using PyTorch (ESM2, ProtT5)
-- Single-cell RNA analysis using R tools (Seurat)
-- Querying and Creating SQL tables
-- Developing interactive web applications using Shiny
-- Custom CLI pipeline
-- Workflow managemnt system such as Nextflow
-- Quality control, dimentionality reduction using R and Python
-- Clustering analysis and differential gene expression using R
-- Managing large datasets (.rds, .csv, .h5ad, .fa, .bed)
-
----
 
 ## 📫 Get in Touch
 
